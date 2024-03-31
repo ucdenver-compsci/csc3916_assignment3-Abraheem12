@@ -2,7 +2,7 @@
  * Created by shawnmccarthy on 1/22/17.
  */
 'use strict;';
-//Include crypto to generate the movie id test
+//Include crypto to generate the movie id
 var crypto = require('crypto');
 module.exports = function () {
     return {

@@ -1,7 +1,6 @@
 /*
-CSC3916 HW2
-File: Server.js
-Description: Web API scaffolding for Movie API
+Homework 3
+Web API
  */
 
 var express = require('express');
